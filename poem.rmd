@@ -15,6 +15,11 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+I painted her a gushing thing,  
+With years about a score;  
+I little thought to find they were  
+A least a dozen more;  
+My fancy gave her eyes of blue,  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
