@@ -19,6 +19,12 @@ you, if you change any of this the git program will notice it and compromise you
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
+Never tell me that not one star of all  
+That slip from heaven at night and softly fall  
+Has been picked up with stones to build a wall.  
+Some laborer found one faded and stone-cold,    
+And saving that its weight suggested gold  
+
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
